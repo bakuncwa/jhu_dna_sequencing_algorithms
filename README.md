@@ -59,7 +59,7 @@ The goal is to provide learners with a **reference and learning aid** to underst
 
 ## 💡 Key Takeaways
 
-- Understanding sequence alignment algorithms (Needleman-Wunsch, Smith-Waterman)  
+- Understanding sequence alignment algorithms
 - Applying efficient data structures for genome data  
 - Practical implementation of DNA sequencing solutions  
 - Analysis of genome reads and pattern matching  
