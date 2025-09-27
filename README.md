@@ -46,7 +46,7 @@ The goal is to provide learners with a **reference and learning aid** to underst
 
 ---
 
-## ⚙️ Tech / Tools Used
+## ⚙️ Tech Stack
 
 | Category          | Tools / Libraries                  |
 |------------------|-----------------------------------|
