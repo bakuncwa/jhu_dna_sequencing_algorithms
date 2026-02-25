@@ -1,4 +1,4 @@
-# JHU Algorithms for DNA Sequencing Solutions
+# Johns Hopkins University (JHU) Algorithms for DNA Sequencing Solutions
 
 **Course Details**
 
