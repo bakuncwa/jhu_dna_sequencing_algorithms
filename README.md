@@ -1,4 +1,4 @@
-# 📊🧬 JHU Algorithms for DNA Sequencing Solutions
+# JHU Algorithms for DNA Sequencing Solutions
 
 **Course Details**
 
@@ -14,7 +14,7 @@ This repository contains **solutions and resources** for the Coursera course **"
 
 ---
 
-## 📝 Programming Homework Solutions
+## Programming Homework Solutions
 
 * [HW1](https://github.com/bakuncwa/algo4dnaseq_jhu/blob/main/algo4dnaseq_w1/algo4dnaseq_hw1.py) – Programming Homework 1  
 * [HW2](https://github.com/bakuncwa/algo4dnaseq_jhu/blob/main/algo4dnaseq_w2/algo4dnaseq_hw2.py) – Programming Homework 2  
@@ -23,7 +23,7 @@ This repository contains **solutions and resources** for the Coursera course **"
 
 ---
 
-## 🧬 Genomes and Datasets
+## Genomes and Datasets
 
 * [Lambda Phage Virus Genome (LAMBDA)](https://github.com/bakuncwa/algo4dnaseq_jhu/blob/main/algo4dnaseq_w1/lambda_virus.fa)  
 * [First 1000 DNA sequencing reads from human genome (ERRO37900)](https://github.com/bakuncwa/algo4dnaseq_jhu/blob/main/algo4dnaseq_w1/ERR037900.first1000.fastq)  
@@ -33,7 +33,7 @@ This repository contains **solutions and resources** for the Coursera course **"
 
 ---
 
-## 📚 Description
+## Description
 
 This repository serves as a **solution bank** for the course **"Algorithms for DNA Sequencing"**. It includes:  
 
@@ -46,7 +46,7 @@ The goal is to provide learners with a **reference and learning aid** to underst
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 | Category          | Tools / Libraries                  |
 |------------------|-----------------------------------|
@@ -57,7 +57,7 @@ The goal is to provide learners with a **reference and learning aid** to underst
 
 ---
 
-## 💡 Key Takeaways
+## Key Takeaways
 
 - Understanding sequence alignment algorithms
 - Applying efficient data structures for genome data  
